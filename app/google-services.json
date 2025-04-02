@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333499996035",
+    "project_id": "fir-city-78b3a",
+    "storage_bucket": "fir-city-78b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333499996035:android:3b44b45e45f9515a1248b6",
+        "android_client_info": {
+          "package_name": "com.example.firebasecity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-jocZ6UE4ZpEHhHKXU3ZWCVFc791dS2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
